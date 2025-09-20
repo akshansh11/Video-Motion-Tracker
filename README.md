@@ -18,7 +18,7 @@ Create stunning colorful trails that follow moving objects in videos! Perfect fo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/colorful-motion-tracker.git
+git clone https://github.com/akshansh11/colorful-motion-tracker.git
 cd colorful-motion-tracker
 
 # Install dependencies
